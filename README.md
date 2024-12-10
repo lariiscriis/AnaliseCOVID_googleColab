@@ -84,7 +84,7 @@ Este projeto utiliza o **Google Colab** e o **MongoDB Atlas** para realizar uma 
 ## **Como Executar**
 1. **Clone este repositório**:
    ```bash
-git clone https://github.com/lariiscriis/AnaliseCOVID_googlecolab.git
+   git clone https://github.com/lariiscriis/AnaliseCOVID_googlecolab.git
 
 2. **Abra o notebook no Google Colab.**
 - Instale as dependências necessárias:
