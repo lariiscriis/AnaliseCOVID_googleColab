@@ -71,10 +71,13 @@ Este projeto utiliza o **Google Colab** e o **MongoDB Atlas** para realizar uma 
 ## **Exemplo de Saída Esperada**
 - **Mapa Interativo**:
   - Ponto central de cada região com total de casos registrados.
+    <img src="mapa_todasregioes.png">
 - **Gráfico**:
-  - Barra ou linha mostrando a média de casos por região.
+  - Barra mostrando a média de casos por região.
+   <img src="grafico_regioes.png">
 - **Outro Mapa Interativo**:
-  - Casos registrados em grandes cidades de uma região específica.
+  - Casos registrados em grande cidade de uma região específica (NORTE).
+    <img src="mapa_regiaoespecifica.png">
 ---
 
 
